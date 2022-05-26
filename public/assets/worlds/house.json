@@ -1,0 +1,51 @@
+[
+    {"path": "", "tile": "house1"},
+    {"path": "R" ,"tile": "house2"},
+    {"path": "RU11", "tile": "house1"},
+    {"path": "RUL11", "tile": "house2"},
+    {"path": "U11", "tile": "house2"},
+    {"path": "UR11", "tile": "house1"},
+    
+    {"path": "RT1", "tile": "house3"},
+    {"path": "RTL", "tile": "house3"},
+    {"path": "RTU11", "tile": "house3"},
+    {"path": "RUT11", "tile": "house3"},
+    {"path": "RUTL111", "tile": "house3"},
+    {"path": "RULT111", "tile": "house3"},
+    {"path": "RUTD1", "tile": "house3"},
+    {"path": "RULTR11", "tile": "house3"},
+    {"path": "URTD1", "tile": "house3"},
+    {"path": "RULTD", "tile": "house3"},
+    
+    {"path": "T", "tile": "house3"},
+    {"path": "TU111", "tile": "house3"},
+    {"path": "TR1", "tile": "house3"},
+    {"path": "UT111", "tile": "house3"},
+    {"path": "UTD", "tile": "house3"},
+    {"path": "UTR11", "tile": "house3"},
+    {"path": "URT11", "tile": "house3"},
+    {"path": "URTL111", "tile": "house3"},
+
+    {"path": "TUR11", "tile": "house3"},
+    {"path": "RTUL111", "tile": "house3"},
+    {"path": "RTULD", "tile": "house3"},
+    {"path": "TRU11", "tile": "house3"},
+    {"path": "RTLU111", "tile": "house3"},
+    {"path": "RTLU111", "tile": "house3"},
+    
+    {"path": "UTRD1", "tile": "house3"},
+    {"path": "UTDR1", "tile": "house3"},
+    
+    {"path": "TRUL111", "tile": "house3"},
+    {"path": "UTDRU11", "tile": "house3"},
+    {"path": "URTLD", "tile": "house3"},
+    {"path": "URTLDR1", "tile": "house3"},
+    {"path": "URTLDRU11", "tile": "house3"},
+    
+    {"path": "D", "tile": "grass"},
+    {"path": "L", "tile": "grass"},
+    {"path": "RR", "tile": "grass"},
+    {"path": "RD", "tile": "grass"},
+    {"path": "RDL", "tile": "grass"},
+    {"path": "DR", "tile": "grass"}
+]

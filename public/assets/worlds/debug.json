@@ -1,0 +1,15 @@
+[
+    {"path": "", "tile": "debug"},
+    {"path": "U", "tile": "debug"},
+    {"path": "R" ,"tile": "debug"},
+    {"path": "D", "tile": "debug"},
+    {"path": "L", "tile": "debug"},
+    {"path": "UR", "tile": "debug"},
+    {"path": "RD", "tile": "debug"},
+    {"path": "DL", "tile": "debug"},
+    {"path": "LU", "tile": "debug"},
+    {"path": "DR", "tile": "debug"},
+    {"path": "LD", "tile": "debug"},
+    {"path": "UL", "tile": "debug"},
+    {"path": "RU", "tile": "debug"}
+]
